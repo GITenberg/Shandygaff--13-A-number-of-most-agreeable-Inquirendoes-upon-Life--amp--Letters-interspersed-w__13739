@@ -1,0 +1,40 @@
+_repo: Shandygaff--13-A-number-of-most-agreeable-Inquirendoes-upon-Life--amp--Letters-interspersed-w__13739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: Cover -- Contents.
+gutenberg_issued: '2004-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+tableOfContents: 'The song of Shandygaff -- Titles and dedications -- A question of
+  plumage -- Don Marquis -- The art of walking -- Rupert Brooke -- The man -- The
+  head of the firm -- 17 Heriot Row -- Frank confessions of a publisher''s reader
+  -- William McFee -- Rhubarb -- The haunting beauty of strychnine -- Ingo -- Housebroken
+  -- The hilarity of Hilaire -- A casual of the sea -- The last pipe -- Time to light
+  the furnace -- My friend -- A poet of sad vigils -- Trivia -- Prefaces -- The skipper
+  -- A friend of FitzGerald -- A venture into mysticism -- An Oxford landlady -- "Peacock
+  pie" -- The literary pawnshop -- A morning in Marathon -- The American House of
+  Lords -- Cotswold winds -- Clouds -- Unhealthy -- Confessions of a smoker -- Hay
+  febrifuge -- Appendix: Suggestions for teachers.'
+title: "Shandygaff\r\nA number of most agreeable Inquirendoes upon Life & Letters,\
+  \ interspersed with Short Stories & Skits, the whole most Diverting to the Reader"
+url: http://www.gutenberg.org/ebooks/13739
