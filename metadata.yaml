@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13739#Shandygaff--13-A-number-of-most-agreeable-Inquirendoes-upon-Life--amp--Letters-interspersed-w_
 gutenberg_issued: '2004-10-13'
 gutenberg_type: Text
 identifiers:
